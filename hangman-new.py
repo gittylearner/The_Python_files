@@ -3,7 +3,7 @@ import string
 #from random_words import RandomWords
 
 #r = RandomWords()
-words = ["dragons", "pillows", "brushes","bimbos","velocity","flowers","brownie","sunscreen","bicycle","cartwheel","philosopher","bunglow"]
+words = ["dragons","pillows","brushes","blush","velocity","flowers","brownie","sunscreen","bicycle","cartwheel","philosopher","bunglow"]
 
 print("HANGMAN")
 print("\nThe Rules")
